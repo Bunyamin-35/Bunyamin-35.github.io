@@ -112,12 +112,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,images
-
-#Ignore the Files
-assets/
-images/
-categories/
-
-#txt files
-*.txt
-
