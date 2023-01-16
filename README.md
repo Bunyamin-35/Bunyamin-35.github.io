@@ -1,3 +1,3 @@
-#Portfolio Website ![%30](https://progress-bar.dev/30)
+# Portfolio Website ![%30](https://progress-bar.dev/30)
 
-##You can inspect my projects
+## You can inspect my projects
